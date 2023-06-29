@@ -1,7 +1,7 @@
 import telebot
 from main import predict
 
-TOKEN = '6100411855:AAGRq3PAPIkUgMlxmpfWudXDfU8n3uTqmj8'
+TOKEN = '6100411855:AAGRq3PAPIkUgMlxmpfWudXDfU8n3uTqmj80'
 bot = telebot.TeleBot(TOKEN)
 
 
